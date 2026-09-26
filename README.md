@@ -17,5 +17,6 @@ An interactive Excel dashboard developed for sales analysis using Pivot Tables, 
 
 ## Dashboard Preview
 
-screenshot 2026-09-26 155513.png
+<img width="928" height="287" alt="Screenshot 2026-09-26 155513" src="https://github.com/user-attachments/assets/d9498a76-0f3c-409e-b04f-0df81f915d3c" />
+
 
